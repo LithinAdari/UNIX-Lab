@@ -1,0 +1,28 @@
+week3/
+week3/file.txt
+week3/file3.txt
+week3/file1.txt
+week3/file2.txt
+ 
+Successfully zipped
+ 
+week3/
+week3/file.txt
+week3/file3.txt
+week3/file1.txt
+week3/file2.txt
+ 
+Successfully Unzipped 
+ 
+drwxr-xr-x lithin/lithin     0 2024-02-28 15:56 week3/
+-rw-r--r-- lithin/lithin     0 2024-02-28 15:56 week3/file.txt
+-rw-r--r-- lithin/lithin     0 2024-02-28 15:56 week3/file3.txt
+-rw-r--r-- lithin/lithin     0 2024-02-28 15:56 week3/file1.txt
+-rw-r--r-- lithin/lithin     0 2024-02-28 15:56 week3/file2.txt
+ 
+week3/
+week3/file.txt
+week3/file3.txt
+week3/file1.txt
+week3/file2.txt
+ 
